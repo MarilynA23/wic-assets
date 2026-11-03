@@ -43,3 +43,9 @@ Use raw image URLs, not GitHub `/blob/` page URLs. Keep `v1` unchanged once news
 ## Sending status
 
 This PR supplies artwork only. It does not send email, publish the generator or configure Power Automate. Attaching an HTML or EML file does not turn it into the message body. Outlook's OFT template import is being evaluated separately for the manual HTML workflow; the complete newsletter still needs an Outlook rendering check with these hosted assets.
+
+## Outlook date and paper backgrounds
+
+Outlook removes the date tile’s CSS gradient overlay. `date-tile.png` (1440 × 210) and `date-tile-mobile.png` (1440 × 198) flatten the approved Blue Hour overlay into full-colour lossless backgrounds at the original 2× grain scale. Display at 720 × 105 and 720 × 99 CSS pixels, centred inside the date tile. The date itself stays live HTML. These reproduce the original `#101a29a3` to `#101a29f0` overlay, 80% opacity and 52% background position.
+
+`paper.png` is a uniform 2 × 2 image in the approved `#0b1019` navy, used as a repeating background to avoid Outlook’s grey recolouring. Flat colour has no resolution limit. These files add backgrounds without changing the previously published assets.
