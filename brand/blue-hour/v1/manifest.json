@@ -93,6 +93,30 @@
       "file": "social-website.svg",
       "bytes": 321,
       "sha256": "d6534d833c15662bd34b7298b1d2091f4804e17f76b6090b69ac0fc98ec83056"
+    },
+    "date-tile.png": {
+      "file": "date-tile.png",
+      "bytes": 345631,
+      "sha256": "7d12009cdccc257fe1eed6feee69c92e6066a31ab52f69d6c4d048924b1947b5",
+      "width": 1440,
+      "height": 210,
+      "mode": "RGB"
+    },
+    "date-tile-mobile.png": {
+      "file": "date-tile-mobile.png",
+      "bytes": 342906,
+      "sha256": "7390686036f85a5b05f80e1a3764bd35047db09be625d1bfa7521f0c3064ca2b",
+      "width": 1440,
+      "height": 198,
+      "mode": "RGB"
+    },
+    "paper.png": {
+      "file": "paper.png",
+      "bytes": 79,
+      "sha256": "40457474b5ea180688d283de7cd2bbb6208117ef9dd880b77403534898558450",
+      "width": 2,
+      "height": 2,
+      "mode": "RGB"
     }
   }
 }
