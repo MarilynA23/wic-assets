@@ -1,0 +1,3 @@
+Instagram, LinkedIn and Linktree brand glyphs: SVG paths published by Linktree at https://linktr.ee/wic_imperial, retrieved 2026-11-03. Monochrome colour applied for the newsletter footer.
+Website globe: original SVG geometry.
+These are vector SVG masters, not embedded raster images. Links have accessible names and hover labels.

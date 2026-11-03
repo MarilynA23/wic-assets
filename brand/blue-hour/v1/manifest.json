@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "baseUrlAfterMerge": "https://raw.githubusercontent.com/MarilynA23/wic-assets/main/brand/blue-hour/v1/",
+  "assets": {
+    "blue-hour.png": {
+      "file": "blue-hour.png",
+      "bytes": 2976441,
+      "sha256": "ac4261f0247ad2d04a08ce627ec26603bcfd4901996612b00be58568b4446552",
+      "width": 1440,
+      "height": 1100,
+      "mode": "RGB"
+    },
+    "curiosity-master.png": {
+      "file": "curiosity-master.png",
+      "bytes": 1664345,
+      "sha256": "9c058075f7602b3a9eb67ed68675cc77240e639826367d1ab5643f9dc3befd8a",
+      "width": 1440,
+      "height": 640,
+      "mode": "RGB"
+    },
+    "curiosity.png": {
+      "file": "curiosity.png",
+      "bytes": 1041040,
+      "sha256": "496e0a0ab0d8a575c5ebc99f25ac392db5d8862719878c2bebc0c0531da92b5c",
+      "width": 1440,
+      "height": 400,
+      "mode": "RGB"
+    },
+    "footer.png": {
+      "file": "footer.png",
+      "bytes": 544499,
+      "sha256": "39fe3a675e506c4f456829e8262d0e247b77d78cf26b4dddad00844805f16fa8",
+      "width": 1440,
+      "height": 500,
+      "mode": "P"
+    },
+    "panel-glass.png": {
+      "file": "panel-glass.png",
+      "bytes": 7757,
+      "sha256": "c7f5cbc117b7b1919fa782f7906ba8b24d0f8ec8194db7a73d52a625fb142983",
+      "width": 540,
+      "height": 700,
+      "mode": "RGBA"
+    },
+    "social-instagram.png": {
+      "file": "social-instagram.png",
+      "bytes": 4881,
+      "sha256": "7142007785abeaa8d06691a5c65fa313249087f23d8c4c7d9ce6bd3443fcae0a",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    "social-instagram.svg": {
+      "file": "social-instagram.svg",
+      "bytes": 4064,
+      "sha256": "cc684bd9691fc04dfde254c6a0e8c30017d0dd266dfdf544b5a9b4d7c3c7f9e0"
+    },
+    "social-linkedin.png": {
+      "file": "social-linkedin.png",
+      "bytes": 2129,
+      "sha256": "b296c46c76f1cbe1619505d2d624df26e47d4aa706a8b5195a4e26aad3f920a3",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    "social-linkedin.svg": {
+      "file": "social-linkedin.svg",
+      "bytes": 1076,
+      "sha256": "e612b772bee68f14e491cc4e54b21de44db195832940c8b8c79c2274625c9acd"
+    },
+    "social-linktree.png": {
+      "file": "social-linktree.png",
+      "bytes": 2143,
+      "sha256": "300a038c0662127cf2925a40dbb122421af8d53defee7d37a05445c0da5cfef4",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    "social-linktree.svg": {
+      "file": "social-linktree.svg",
+      "bytes": 449,
+      "sha256": "736310f7812a8ceac688f13cf51ebf0dae72d3a2a5c2dbe6b56895784f31dcd5"
+    },
+    "social-website.png": {
+      "file": "social-website.png",
+      "bytes": 5043,
+      "sha256": "1c8a5970e68e0eb64d54f1bf21bb55e93b169b0bdad46f436dee89e38157f1d2",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA"
+    },
+    "social-website.svg": {
+      "file": "social-website.svg",
+      "bytes": 321,
+      "sha256": "d6534d833c15662bd34b7298b1d2091f4804e17f76b6090b69ac0fc98ec83056"
+    }
+  }
+}
