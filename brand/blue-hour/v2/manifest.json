@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "dependencies": {
+    "numpy": "2.5.4",
+    "Pillow": "13.0.0"
+  },
+  "outputScale": 4,
+  "grainScale": 2,
+  "grainSampling": "Original seeded 2x noise lattice, nearest-neighbour expanded to 4x; smooth fields recomputed at 4x.",
+  "referenceFormulaChecks": {
+    "blue-hour": {
+      "mean_absolute_channel_error": 0.0,
+      "max_channel_error": 0,
+      "identical_pixels_percent": 100.0
+    },
+    "curiosity": {
+      "mean_absolute_channel_error": 0.0,
+      "max_channel_error": 0,
+      "identical_pixels_percent": 100.0
+    }
+  },
+  "assets": {
+    "blue-hour.png": {
+      "width": 2880,
+      "height": 2200,
+      "mode": "RGB",
+      "bytes": 4632961,
+      "sha256": "476fbc461b8296f75604913effcf341cf83ab5eaec77c240237f51b3c12ee791",
+      "boxDownsampleComparedToApproved2x": {
+        "mean_absolute_channel_error": 0.068672,
+        "max_channel_error": 1,
+        "identical_pixels_percent": 82.8177
+      },
+      "originalSampleCoordinatesComparison": {
+        "mean_absolute_channel_error": 0.0,
+        "max_channel_error": 0,
+        "identical_pixels_percent": 100.0
+      }
+    },
+    "curiosity.png": {
+      "width": 2880,
+      "height": 1280,
+      "mode": "RGB",
+      "bytes": 2093499,
+      "sha256": "898f92879f2ea04e8a4c44e1dbea02ed56c81b10a0a55c8acc2dfe058fb63e83",
+      "boxDownsampleComparedToApproved2x": {
+        "mean_absolute_channel_error": 0.0,
+        "max_channel_error": 0,
+        "identical_pixels_percent": 100.0
+      },
+      "originalSampleCoordinatesComparison": {
+        "mean_absolute_channel_error": 0.0,
+        "max_channel_error": 0,
+        "identical_pixels_percent": 100.0
+      }
+    },
+    "footer.png": {
+      "width": 2880,
+      "height": 1000,
+      "mode": "RGB",
+      "bytes": 1895326,
+      "sha256": "b2fe677273e8c2057e5339060f3659d039cd02434203d21fdd40c90cb963415d"
+    },
+    "date-tile.png": {
+      "width": 2880,
+      "height": 420,
+      "mode": "RGB",
+      "bytes": 785267,
+      "sha256": "a0147f22d536078065492bf1c63772bfc24a61faa4ad83b68a391d5803fd8b30"
+    },
+    "date-tile-mobile.png": {
+      "width": 2880,
+      "height": 396,
+      "mode": "RGB",
+      "bytes": 668125,
+      "sha256": "8f0f13be59116880ed4030d705bbaae0cfeb8dd647e115784150922b31230fc5"
+    },
+    "ink-heading.svg": {
+      "width": 1,
+      "height": 1,
+      "mode": "SVG",
+      "kind": "solid-palette-tile",
+      "fill": "#25314b",
+      "bytes": 129,
+      "sha256": "299dfe39d61d0ac065643f7f5c9bca9b56ab02f1df087f0796fedbd028c4def6"
+    },
+    "ink-body.svg": {
+      "width": 1,
+      "height": 1,
+      "mode": "SVG",
+      "kind": "solid-palette-tile",
+      "fill": "#26334d",
+      "bytes": 129,
+      "sha256": "cccc5071c2e4d70f263ec08b9fd2d7b12e99c2e924281b9746db8de2bf0d9797"
+    },
+    "ink-caption.svg": {
+      "width": 1,
+      "height": 1,
+      "mode": "SVG",
+      "kind": "solid-palette-tile",
+      "fill": "#46587b",
+      "bytes": 129,
+      "sha256": "00a8341ecba00ce9eedb0108db3ccfd178c480cb0fed083331403542b0a5b9c7"
+    },
+    "ink-stamp.svg": {
+      "width": 1,
+      "height": 1,
+      "mode": "SVG",
+      "kind": "solid-palette-tile",
+      "fill": "#445579",
+      "bytes": 129,
+      "sha256": "0352a99513a8b184250dace3ac5d427fa74697b5f0733defa5c6c74822021a41"
+    },
+    "white.svg": {
+      "width": 1,
+      "height": 1,
+      "mode": "SVG",
+      "kind": "solid-palette-tile",
+      "fill": "#ffffff",
+      "bytes": 129,
+      "sha256": "c981d5769f3a23ce52b673a3eb0371e64d14c8bd8e18f55653f5277b5fc13cbb"
+    },
+    "social-button.svg": {
+      "width": 44,
+      "height": 44,
+      "mode": "SVG",
+      "kind": "social-button-background",
+      "bytes": 240,
+      "sha256": "a64eff125fe43e1b5b3488f8c1807c957d2d98f910d4d8695ade9c052c6fc12a"
+    }
+  }
+}
